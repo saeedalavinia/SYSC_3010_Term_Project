@@ -1,0 +1,11 @@
+package serverThreads;
+
+public class UDPvideoThread implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
